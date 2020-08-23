@@ -1,16 +1,11 @@
-# chatIt
+# ChatIt
 
-A new Flutter project.
+Welcome to this repo, this is a Demo of the Chat app..
 
-## Getting Started
+To download the apk For your android phone, click ## here(https://drive.google.com/file/d/1VrHO5q5FXE78WKqvva9q1wLey-ob3q1h/view?usp=sharing) ..Enjoy
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Demo
+![chat-gif](https://user-images.githubusercontent.com/42491873/90986513-6cf5af00-e57b-11ea-8aed-d64cd201f60e.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
